@@ -39,7 +39,7 @@ public class User {
 
 	@Override
 	public String toString() {
-		return "User [name=" + name + ", role=" + role + "]";
+		return "User [name=" + name + ", role=" + role + "] --";
 	}
 
 	public User(String name, String role) {
